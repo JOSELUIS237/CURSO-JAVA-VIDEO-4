@@ -1,4 +1,4 @@
-public class Video4Suma {
+public class Video4 {
     public static void main(String args[]) {
         int num_uno =  5;
         int num_dos = 2;
